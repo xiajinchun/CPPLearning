@@ -15,6 +15,7 @@
 class Man:public People {
     
 public:
+    Man(int age);
 };
 
 #endif /* defined(__L03Classes__Man__) */
