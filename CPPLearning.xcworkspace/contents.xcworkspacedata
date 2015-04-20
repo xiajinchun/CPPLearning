@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:L10Operator/L10Operator.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:L09Overload/L09Overload.xcodeproj">
    </FileRef>
    <FileRef
