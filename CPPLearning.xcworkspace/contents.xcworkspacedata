@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:L06SuperMethod/L06SuperMethod.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:L05SuperCMethod/L05SuperCMethod.xcodeproj">
    </FileRef>
    <FileRef
